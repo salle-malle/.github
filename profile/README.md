@@ -21,11 +21,12 @@ AI 기술을 활용해 미국 주식 뉴스를 요약하고, 사용자의 보유
 
 | 온보딩 페이지 | 메인 페이지 | 요약 페이지 | 스크랩 페이지 |
 |:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/1e6cdd32-81c8-46e6-964e-227bebe4fc7e" width="200" height="450"/> | <img src="https://github.com/user-attachments/assets/8b47ab59-26de-4f78-ab6d-ca06d29300ce" width="250"/> | <img src="https://github.com/user-attachments/assets/b9e1e3cf-0d08-4a03-9bfe-1f17d2767f7f" width="250"/> | <img src="https://github.com/user-attachments/assets/b2ef98b0-a562-476f-977c-e02557c72b63" width="250"/> |
+| <img src="https://github.com/user-attachments/assets/1e6cdd32-81c8-46e6-964e-227bebe4fc7e" width="250" height="450"/> | <img src="https://github.com/user-attachments/assets/8b47ab59-26de-4f78-ab6d-ca06d29300ce" width="250"/> | <img src="https://github.com/user-attachments/assets/b9e1e3cf-0d08-4a03-9bfe-1f17d2767f7f" width="250"/> | <img src="https://github.com/user-attachments/assets/b2ef98b0-a562-476f-977c-e02557c72b63" width="250"/> |
 
 | 알림 페이지 | 마이 페이지 | 종목 상세 페이지 | 로그인 페이지 |
 |:---:|:---:|:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/5e2bc5ea-c5d1-4ac2-8327-e2de8e0c0760" width="250"/> | <img src="https://github.com/user-attachments/assets/8db5dc70-f35a-4938-b418-e98a0efa94f1" width="250"/> | <img src="https://github.com/user-attachments/assets/6a8ba61c-cf35-48d1-ae80-c12d783a9ba3" width="250"/> | <img src="https://github.com/user-attachments/assets/ab4a619c-5f32-4e3f-ac88-5c6c9968ddbb" width="250"/> |
+
 
 
 ### 🖥️ 기술 스택
